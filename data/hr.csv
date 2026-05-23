@@ -1,0 +1,312 @@
+﻿Employee_Name,Position,State,DOB,Sex,MaritalDesc,CitizenDesc,EmploymentStatus,Department,ManagerName,RecruitmentSource,PerformanceScore,EngagementSurvey,SpecialProjectsCount,Absences
+"Adinolfi, Wilson  K",Production Technician I,MA,07-10-1983,M ,Single,US Citizen,Active,Production       ,Michael Albert,LinkedIn,Exceeds,4.6,0,1
+"Ait Sidi, Karthikeyan   ",Sr. DBA,MA,05-05-1975,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,Simon Roup,Indeed,Fully Meets,4.96,6,17
+"Akinkuolie, Sarah",Production Technician II,MA,09/19/88,F,Married,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,LinkedIn,Fully Meets,3.02,0,3
+"Alagbe,Trina",Production Technician I,MA,09/27/88,F,Married,US Citizen,Active,Production       ,Elijiah Gray,Indeed,Fully Meets,4.84,0,15
+"Anderson, Carol ",Production Technician I,MA,09-08-1989,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Google Search,Fully Meets,5,0,2
+"Anderson, Linda  ",Production Technician I,MA,05/22/77,F,Single,US Citizen,Active,Production       ,Amy Dunn,LinkedIn,Exceeds,5,0,15
+"Andreola, Colby",Software Engineer,MA,05/24/79,F,Single,US Citizen,Active,Software Engineering,Alex Sweetwater,LinkedIn,Fully Meets,3.04,4,19
+"Athwal, Sam",Production Technician I,MA,02/18/83,M ,Widowed,US Citizen,Active,Production       ,Ketsia Liebig,Employee Referral,Fully Meets,5,0,19
+"Bachiochi, Linda",Production Technician I,MA,02-11-1970,F,Single,US Citizen,Active,Production       ,Brannon Miller,Diversity Job Fair,Fully Meets,4.46,0,4
+"Bacong, Alejandro ",IT Support,MA,01-07-1988,M ,Divorced,US Citizen,Active,IT/IS,Peter Monroe,Indeed,Fully Meets,5,6,16
+"Baczenski, Rachael  ",Production Technician I,MA,01-12-1974,F,Married,US Citizen,Voluntarily Terminated,Production       ,David Stanley,Diversity Job Fair,Fully Meets,4.2,0,12
+"Barbara, Thomas",Production Technician I,MA,02/21/74,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,Diversity Job Fair,Fully Meets,4.2,0,15
+"Barbossa, Hector",Data Analyst,TX,07-04-1988,M ,Divorced,US Citizen,Active,IT/IS,Simon Roup,Diversity Job Fair,Exceeds,4.28,5,9
+"Barone, Francesco  A",Production Technician I,MA,07/20/83,M ,Single,US Citizen,Active,Production       ,Kelley Spirea,Google Search,Fully Meets,4.6,0,7
+"Barton, Nader",Production Technician I,MA,07/15/77,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,Michael Albert,On-line Web application,Fully Meets,5,0,1
+"Bates, Norman",Production Technician I,MA,10/18/81,M ,Single,US Citizen,Terminated for Cause,Production       ,Kelley Spirea,Google Search,Fully Meets,5,0,20
+"Beak, Kimberly  ",Production Technician II,MA,04/17/66,F,Married,US Citizen,Active,Production       ,Kelley Spirea,Employee Referral,Exceeds,4.4,0,16
+"Beatrice, Courtney ",Production Technician I,MA,10/27/70,F,Single,Eligible NonCitizen,Active,Production       ,Elijiah Gray,Google Search,Fully Meets,5,0,12
+"Becker, Renee",Database Administrator,MA,04-04-1986,F,Single,US Citizen,Terminated for Cause,IT/IS,Simon Roup,Google Search,Fully Meets,4.5,5,8
+"Becker, Scott",Production Technician I,MA,04-06-1979,M ,Single,US Citizen,Active,Production       ,Webster Butler,LinkedIn,Fully Meets,4.2,0,13
+"Bernstein, Sean",Production Technician I,MA,12/22/70,M ,Single,US Citizen,Active,Production       ,Amy Dunn,Google Search,Fully Meets,5,0,13
+"Biden, Lowan  M",Production Technician I,MA,12/27/58,F,Divorced,US Citizen,Active,Production       ,Ketsia Liebig,Indeed,Fully Meets,4.2,0,2
+"Billis, Helen",Production Technician I,MA,09-01-1989,F,Married,US Citizen,Active,Production       ,Brannon Miller,Indeed,Exceeds,5,0,19
+"Blount, Dianna",Production Technician II,MA,09/21/90,F,Single,US Citizen,Active,Production       ,Michael Albert,CareerBuilder,Needs Improvement,2,0,3
+"Bondwell, Betsy",Production Technician II,MA,01/16/67,F,Single,US Citizen,Voluntarily Terminated,Production       ,Elijiah Gray,Google Search,Fully Meets,4.8,0,5
+"Booth, Frank",Enterprise Architect,CT,07/30/64,M ,Single,US Citizen,Terminated for Cause,IT/IS,Simon Roup,LinkedIn,Fully Meets,3.5,7,2
+"Boutwell, Bonalyn",Sr. Accountant,MA,04-04-1987,F,Married,US Citizen,Active,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,5,3,4
+"Bozzi, Charles",Production Manager,MA,03-10-1970,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Janet King,Indeed,Fully Meets,3.39,0,14
+"Brill, Donna",Production Technician I,MA,08/24/90,F,Married,US Citizen,Voluntarily Terminated,Production       ,David Stanley,Google Search,Fully Meets,3.35,0,6
+"Brown, Mia",Accountant I,MA,11/24/87,F,Married,US Citizen,Active,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,4.5,6,14
+"Buccheri, Joseph  ",Production Technician II,MA,07/28/83,M ,Single,US Citizen,Active,Production       ,Webster Butler,Google Search,Fully Meets,3.19,0,9
+"Bugali, Josephine ",Production Technician I,MA,10/30/69,F,Separated,US Citizen,Active,Production       ,Kissy Sullivan,Diversity Job Fair,Fully Meets,3.5,0,17
+"Bunbury, Jessica",Area Sales Manager,VA,06-01-1964,F,Married,Eligible NonCitizen,Voluntarily Terminated,Sales,John Smith,Google Search,Fully Meets,3.14,0,19
+"Burke, Joelle",Production Technician II,MA,03-02-1980,F,Single,US Citizen,Active,Production       ,Amy Dunn,Employee Referral,Fully Meets,4.51,0,3
+"Burkett, Benjamin ",Production Technician II,MA,08/19/77,M ,Married,US Citizen,Active,Production       ,Ketsia Liebig,Indeed,Fully Meets,3.25,0,15
+"Cady, Max ",Software Engineering Manager,MA,11/22/66,M ,Single,US Citizen,Active,Software Engineering,Jennifer Zamora,Google Search,Fully Meets,3.84,5,4
+"Candie, Calvin",Production Manager,MA,08-09-1983,M ,Single,US Citizen,Active,Production       ,Janet King,Indeed,Exceeds,5,0,14
+"Carabbio, Judith",Software Engineer,MA,04-05-1987,F,Single,US Citizen,Active,Software Engineering,Alex Sweetwater,Indeed,Fully Meets,4.96,6,3
+"Carey, Michael  ",Production Technician I,MA,02-02-1983,M ,Single,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Fully Meets,4.43,0,14
+"Carr, Claudia  N",Sr. DBA,MA,06-06-1986,F,Single,US Citizen,Active,IT/IS,Simon Roup,LinkedIn,Fully Meets,5,6,7
+"Carter, Michelle ",Area Sales Manager,VT,05/15/63,F,Single,US Citizen,Active,Sales,John Smith,Indeed,Fully Meets,5,0,7
+"Chace, Beatrice ",Production Technician I,MA,01-02-1951,F,Single,US Citizen,Active,Production       ,Michael Albert,Google Search,Fully Meets,5,0,11
+"Champaigne, Brian",BI Director,MA,02-09-1972,M ,Married,US Citizen,Active,IT/IS,Jennifer Zamora,Indeed,Fully Meets,4.5,7,8
+"Chan, Lin",Production Technician I,MA,02-12-1979,F,Single,US Citizen,Active,Production       ,Elijiah Gray,Indeed,Fully Meets,3.3,0,11
+"Chang, Donovan  E",Production Technician I,MA,08/24/83,M ,Single,US Citizen,Active,Production       ,Webster Butler,LinkedIn,Fully Meets,3.8,0,4
+"Chigurh, Anton",Area Sales Manager,TX,06-11-1970,M ,Single,Eligible NonCitizen,Active,Sales,Lynn Daneault,Employee Referral,Fully Meets,3,0,17
+"Chivukula, Enola",Production Technician I,MA,08/27/83,F,Single,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Indeed,Fully Meets,4.3,0,3
+"Cierpiszewski, Caroline  ",Production Technician I,MA,05/31/88,F,Single,Non-Citizen,Active,Production       ,Ketsia Liebig,Indeed,Fully Meets,3.58,0,3
+"Clayton, Rick",IT Support,MA,09-05-1985,M ,Single,US Citizen,Active,IT/IS,Eric Dougall,Indeed,Fully Meets,4.7,6,2
+"Cloninger, Jennifer",Production Technician II,MA,08/31/81,F,Married,US Citizen,Voluntarily Terminated,Production       ,Brannon Miller,Google Search,Fully Meets,4.2,0,9
+"Close, Phil",Production Technician II,MA,11/25/78,M ,Married,US Citizen,Voluntarily Terminated,Production       ,David Stanley,Indeed,Fully Meets,4.2,0,6
+"Clukey, Elijian",Production Technician I,MA,08/26/80,M ,Married,US Citizen,Active,Production       ,Brannon Miller,Employee Referral,Exceeds,4.1,0,5
+"Cockel, James",Production Technician I,MA,09-08-1977,M ,Single,US Citizen,Active,Production       ,David Stanley,Employee Referral,Fully Meets,4.4,0,3
+"Cole, Spencer",Production Technician I,MA,08-12-1979,M ,Single,US Citizen,Terminated for Cause,Production       ,Kissy Sullivan,LinkedIn,Needs Improvement,2,0,16
+"Corleone, Michael",Production Manager,MA,12/17/75,M ,Divorced,US Citizen,Active,Production       ,Janet King,CareerBuilder,Needs Improvement,4.13,0,3
+"Corleone, Vito",Director of Operations,MA,03/19/83,M ,Single,US Citizen,Active,Production       ,Janet King,Indeed,Exceeds,3.7,0,15
+"Cornett, Lisa ",Production Technician I,MA,03/31/77,F,Married,US Citizen,Active,Production       ,Kelley Spirea,Indeed,Fully Meets,4.73,0,6
+"Costello, Frank",Data Analyst,MA,08/26/86,M ,Married,US Citizen,Active,IT/IS,Simon Roup,Indeed,Fully Meets,3.04,6,2
+"Crimmings,   Jean",Production Technician I,MA,04-10-1987,F,Single,US Citizen,Active,Production       ,Michael Albert,LinkedIn,Fully Meets,4.12,0,15
+"Cross, Noah",Sr. Network Engineer,CT,09-09-1965,M ,Single,US Citizen,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5,4,5
+"Daneault, Lynn",Sales Manager,VT,04/19/90,F,Single,US Citizen,Active,Sales,Debra Houlihan,Indeed,Fully Meets,4.62,0,8
+"Daniele, Ann  ",Sr. Network Engineer,CT,01/18/52,F,Married,US Citizen,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.1,8,19
+"Darson, Jene'ya ",Production Technician I,MA,11-05-1978,F,Married,US Citizen,Active,Production       ,Elijiah Gray,Indeed,Fully Meets,5,0,1
+"Davis, Daniel",Production Technician II,MA,09/14/79,M ,Single,Eligible NonCitizen,Active,Production       ,Kissy Sullivan,LinkedIn,Fully Meets,3.96,0,6
+"Dee, Randy",Production Technician I,MA,04/15/88,M ,Married,US Citizen,Active,Production       ,Brannon Miller,Indeed,Fully Meets,4.3,3,2
+"DeGweck,  James",Production Technician I,MA,10/31/77,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Indeed,Fully Meets,5,0,14
+"Del Bosque, Keyla",Software Engineer,MA,07-05-1979,F,Single,US Citizen,Active,Software Engineering,Alex Sweetwater,CareerBuilder,Fully Meets,3.79,5,8
+"Delarge, Alex",Area Sales Manager,AL,11-02-1975,M ,Single,US Citizen,Active,Sales,John Smith,Indeed,PIP,1.93,0,5
+"Demita, Carla",Production Technician II,MA,02/25/51,F,Separated,US Citizen,Voluntarily Terminated,Production       ,Kelley Spirea,Google Search,Fully Meets,4.62,0,1
+"Desimone, Carl ",Production Technician I,MA,04/19/67,M ,Married,US Citizen,Active,Production       ,Amy Dunn,Indeed,PIP,1.12,0,9
+"DeVito, Tommy",BI Developer,MA,09-04-1983,M ,Single,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.01,7,15
+"Dickinson, Geoff ",Production Technician I,MA,11/15/82,M ,Single,US Citizen,Active,Production       ,Ketsia Liebig,Indeed,Fully Meets,4.3,0,1
+"Dietrich, Jenna  ",Area Sales Manager,WA,05/14/87,F,Single,US Citizen,Active,Sales,John Smith,Website,PIP,2.3,0,17
+"DiNocco, Lily ",Production Technician I,MA,12-02-1978,F,Married,US Citizen,Active,Production       ,Brannon Miller,Indeed,Needs Improvement,3.88,0,6
+"Dobrin, Denisa  S",Production Technician I,MA,10-07-1986,F,Single,US Citizen,Active,Production       ,David Stanley,CareerBuilder,Fully Meets,3.4,0,15
+"Dolan, Linda",IT Support,MA,07/18/88,F,Married,US Citizen,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.11,6,16
+"Dougall, Eric",IT Manager - Support,MA,07-09-1970,M ,Single,US Citizen,Active,IT/IS,Jennifer Zamora,Indeed,Exceeds,4.3,5,4
+"Driver, Elle",Area Sales Manager,CA,11-08-1988,F,Single,US Citizen,Active,Sales,Lynn Daneault,Indeed,Exceeds,4.77,0,14
+"Dunn, Amy  ",Production Manager,MA,11/28/73,F,Single,US Citizen,Active,Production       ,Janet King,Google Search,Fully Meets,4.52,0,4
+"Dunne, Amy",Production Technician I,MA,09/23/73,F,Married,US Citizen,Active,Production       ,Ketsia Liebig,Google Search,Fully Meets,2.9,0,6
+"Eaton, Marianne",Production Technician I,MA,09-05-1991,F,Married,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,Google Search,Fully Meets,5,0,7
+"Engdahl, Jean",Production Technician I,MA,05/31/74,M ,Single,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Fully Meets,4.7,0,8
+"England, Rex",Production Technician I,MA,08/25/78,M ,Married,US Citizen,Active,Production       ,Kelley Spirea,Employee Referral,Fully Meets,4.2,0,3
+"Erilus, Angela",Production Technician II,MA,08/25/89,F,Separated,US Citizen,Active,Production       ,Michael Albert,Indeed,PIP,3,0,5
+"Estremera, Miguel",Production Technician I,MA,09-02-1983,M ,Single,US Citizen,Terminated for Cause,Production       ,Michael Albert,Google Search,Needs Improvement,5,0,16
+"Evensen, April",Production Technician I,MA,05-06-1989,F,Single,US Citizen,Terminated for Cause,Production       ,Elijiah Gray,Google Search,Needs Improvement,2.3,0,19
+"Exantus, Susan",Software Engineer,MA,05/15/87,F,Married,US Citizen,Terminated for Cause,Software Engineering,Alex Sweetwater,Indeed,Needs Improvement,2.1,4,19
+"Faller, Megan ",Production Technician II,MA,09/22/78,F,Married,US Citizen,Active,Production       ,Elijiah Gray,LinkedIn,Fully Meets,4.4,0,17
+"Fancett, Nicole",Production Technician II,MA,09/27/87,F,Single,US Citizen,Active,Production       ,Webster Butler,LinkedIn,Fully Meets,4,0,7
+"Ferguson, Susan",Production Technician I,MA,04/14/55,F,Married,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Google Search,Fully Meets,3.13,0,16
+"Fernandes, Nilson  ",Production Technician I,MA,10/18/89,M ,Married,US Citizen,Active,Production       ,Amy Dunn,Indeed,PIP,1.56,0,15
+"Fett, Boba",Network Engineer,MA,06/18/87,M ,Single,US Citizen,Active,IT/IS,Peter Monroe,LinkedIn,PIP,1.2,6,2
+"Fidelia,  Libby",Production Technician I,MA,03/16/81,F,Married,US Citizen,Active,Production       ,Brannon Miller,Google Search,Fully Meets,5,0,19
+"Fitzpatrick, Michael  J",Production Technician II,MA,10-01-1981,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Google Search,Fully Meets,4.76,0,20
+"Foreman, Tanya",Production Technician II,MA,11-08-1983,F,Married,US Citizen,Voluntarily Terminated,Production       ,Ketsia Liebig,Google Search,Fully Meets,3.66,0,6
+"Forrest, Alex",Area Sales Manager,MA,07-07-1975,M ,Married,US Citizen,Terminated for Cause,Sales,Lynn Daneault,Employee Referral,PIP,2,0,7
+"Foss, Jason",IT Director,MA,07-05-1980,M ,Single,US Citizen,Active,IT/IS,Jennifer Zamora,Indeed,Exceeds,5,5,15
+"Foster-Baker, Amy",Sr. Accountant,MA,04/16/79,F,Married,US Citizen,Active,Admin Offices,Board of Directors,Other,Fully Meets,5,2,3
+"Fraval, Maruk ",Area Sales Manager,CT,08/28/63,M ,Single,US Citizen,Active,Sales,Lynn Daneault,CareerBuilder,Fully Meets,4.3,0,7
+"Galia, Lisa",IT Support,CT,07-06-1968,F,Single,US Citizen,Active,IT/IS,Eric Dougall,LinkedIn,Fully Meets,4.7,5,1
+"Garcia, Raul",Production Technician I,MA,09/15/85,M ,Single,US Citizen,Active,Production       ,David Stanley,Employee Referral,Fully Meets,4.5,0,5
+"Gaul, Barbara",Production Technician I,MA,12-02-1983,F,Single,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Fully Meets,4.2,0,12
+"Gentry, Mildred",Production Technician I,MA,10-01-1990,F,Married,US Citizen,Active,Production       ,Michael Albert,LinkedIn,Fully Meets,3.73,0,19
+"Gerke, Melisa",Production Technician I,MA,05/15/70,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,Elijiah Gray,Diversity Job Fair,Fully Meets,4.24,0,2
+"Gill, Whitney  ",Area Sales Manager,OH,07-10-1971,F,Widowed,US Citizen,Terminated for Cause,Sales,John Smith,CareerBuilder,Fully Meets,3.97,0,7
+"Gilles, Alex",Production Technician I,MA,08-09-1974,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Diversity Job Fair,Needs Improvement,3.97,0,15
+"Girifalco, Evelyn",Production Technician I,MA,05-08-1980,F,Single,US Citizen,Active,Production       ,Amy Dunn,Indeed,Exceeds,3.9,0,3
+"Givens, Myriam",Area Sales Manager,IN,09/22/89,F,Single,US Citizen,Active,Sales,Lynn Daneault,Indeed,Fully Meets,4.5,0,20
+"Goble, Taisha",Database Administrator,MA,10/23/71,F,Single,US Citizen,Terminated for Cause,IT/IS,Simon Roup,Indeed,Fully Meets,4.6,4,10
+"Goeth, Amon",IT Support,MA,11/24/89,M ,Married,US Citizen,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,4.3,7,20
+"Gold, Shenice  ",Production Technician I,MA,06/18/92,F,Single,US Citizen,Active,Production       ,Ketsia Liebig,Indeed,Fully Meets,4.3,0,7
+"Gonzalez, Cayo",Production Technician I,MA,09/29/69,M ,Divorced,US Citizen,Active,Production       ,Brannon Miller,Diversity Job Fair,Exceeds,4.5,0,1
+"Gonzalez, Juan",Production Technician II,MA,10-12-1964,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Brannon Miller,Diversity Job Fair,PIP,3,0,10
+"Gonzalez, Maria",IT Support,MA,04/16/81,F,Separated,US Citizen,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.61,5,11
+"Good, Susan",Production Technician II,MA,05/25/86,F,Married,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,4.6,0,20
+"Gordon, David",Production Technician I,MA,05/21/79,M ,Married,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,5,0,2
+"Gosciminski, Phylicia  ",Production Technician II,MA,12-08-1983,F,Separated,US Citizen,Active,Production       ,Kissy Sullivan,Google Search,Fully Meets,4.4,0,1
+"Goyal, Roxana",Production Technician I,MA,10-09-1974,F,Married,US Citizen,Active,Production       ,Kissy Sullivan,LinkedIn,Fully Meets,4.1,0,3
+"Gray, Elijiah  ",Production Manager,MA,07-11-1981,M ,Divorced,US Citizen,Active,Production       ,Janet King,Employee Referral,Fully Meets,4.63,0,2
+"Gross, Paula",Production Technician I,MA,05/21/83,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,Kelley Spirea,CareerBuilder,Fully Meets,5,0,17
+"Gruber, Hans",BI Developer,MA,06/30/89,M ,Married,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.2,5,8
+"Guilianno, Mike",Area Sales Manager,TN,02-09-1969,M ,Single,US Citizen,Voluntarily Terminated,Sales,John Smith,LinkedIn,Fully Meets,4.5,0,20
+"Handschiegl, Joanne",Production Technician I,MA,03/23/77,F,Married,US Citizen,Active,Production       ,Michael Albert,Google Search,Fully Meets,4.2,0,13
+"Hankard, Earnest",Production Technician II,MA,08-10-1988,M ,Single,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Fully Meets,5,0,20
+"Harrington, Christie ",Production Technician I,MA,08/18/52,F,Single,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,CareerBuilder,Fully Meets,4.64,0,8
+"Harrison, Kara",Production Technician I,MA,05-02-1974,F,Married,US Citizen,Active,Production       ,Amy Dunn,CareerBuilder,Exceeds,4.76,0,5
+"Heitzman, Anthony",Production Technician I,MA,01-04-1984,M ,Single,US Citizen,Active,Production       ,Ketsia Liebig,Google Search,Fully Meets,4.17,0,1
+"Hendrickson, Trina",Production Technician II,MA,08/27/72,F,Single,US Citizen,Voluntarily Terminated,Production       ,Kelley Spirea,CareerBuilder,Fully Meets,5,0,15
+"Hitchcock, Alfred",Area Sales Manager,NH,09/14/88,M ,Married,US Citizen,Active,Sales,John Smith,Indeed,Fully Meets,3.6,0,9
+"Homberger, Adrienne  J",Production Technician II,MA,02/16/84,F,Married,Non-Citizen,Voluntarily Terminated,Production       ,Michael Albert,Indeed,Fully Meets,3.03,0,16
+"Horton, Jayne",Database Administrator,MA,02/21/84,F,Single,US Citizen,Active,IT/IS,Simon Roup,Indeed,Fully Meets,4.48,6,4
+"Houlihan, Debra",Director of Sales,RI,03/17/66,F,Married,US Citizen,Active,Sales,Janet King,LinkedIn,Fully Meets,4.5,0,19
+"Howard, Estelle",Administrative Assistant,MA,09/16/85,F,Married,US Citizen,Terminated for Cause,Admin Offices,Brandon R. LeBlanc,Indeed,Fully Meets,3.24,4,6
+"Hudson, Jane",Production Technician I,MA,06-10-1986,F,Single,US Citizen,Active,Production       ,Ketsia Liebig,LinkedIn,Fully Meets,4.8,0,4
+"Hunts, Julissa",Production Technician II,MA,03-11-1984,F,Single,US Citizen,Active,Production       ,Elijiah Gray,LinkedIn,Fully Meets,3,0,4
+"Hutter, Rosalie",Production Technician II,MA,05-07-1992,F,Separated,US Citizen,Active,Production       ,Webster Butler,Indeed,Fully Meets,4.5,0,6
+"Huynh, Ming",Production Technician II,MA,09/22/76,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Google Search,Fully Meets,3.72,0,18
+"Immediato, Walter",Production Manager,MA,11/15/76,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Janet King,Indeed,Needs Improvement,2.34,0,4
+"Ivey, Rose ",Production Technician I,MA,01/28/91,F,Single,US Citizen,Active,Production       ,Brannon Miller,Indeed,Fully Meets,3.99,0,14
+"Jackson, Maryellen",Production Technician I,MA,09-11-1972,F,Single,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,4.1,0,7
+"Jacobi, Hannah  ",Production Technician I,MA,03/22/66,F,Divorced,US Citizen,Active,Production       ,Kissy Sullivan,Employee Referral,Fully Meets,4.3,0,7
+"Jeannite, Tayana",Production Technician II,MA,11-06-1986,F,Divorced,US Citizen,Active,Production       ,Ketsia Liebig,LinkedIn,Exceeds,4.6,0,11
+"Jhaveri, Sneha  ",Production Technician I,MA,04/13/64,F,Separated,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Fully Meets,5,0,9
+"Johnson, George",Production Technician I,MA,08/19/59,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Michael Albert,CareerBuilder,Exceeds,4.7,0,9
+"Johnson, Noelle ",Database Administrator,MA,11-07-1986,F,Married,US Citizen,Active,IT/IS,Simon Roup,Indeed,Fully Meets,3.75,5,2
+"Johnston, Yen",Production Technician II,MA,09-08-1969,F,Single,US Citizen,Active,Production       ,Brannon Miller,LinkedIn,Exceeds,4.3,0,1
+"Jung, Judy  ",Production Technician I,MA,04/17/86,F,Married,US Citizen,Voluntarily Terminated,Production       ,Elijiah Gray,CareerBuilder,Fully Meets,4,0,4
+"Kampew, Donysha",Sales Manager,PA,11-11-1989,F,Single,US Citizen,Voluntarily Terminated,Sales,Debra Houlihan,Google Search,Fully Meets,4.5,0,2
+"Keatts, Kramer ",Production Technician I,MA,01/19/76,M ,Single,US Citizen,Active,Production       ,Michael Albert,Indeed,Fully Meets,3.07,0,10
+"Khemmich, Bartholemew",Area Sales Manager,CO,11/27/79,M ,Single,US Citizen,Active,Sales,Lynn Daneault,Indeed,Fully Meets,4.3,0,13
+"King, Janet",President & CEO,MA,09/21/54,F,Married,US Citizen,Active,Executive Office,Board of Directors,Indeed,Fully Meets,4.83,0,10
+"Kinsella, Kathleen  ",Production Technician I,MA,12-08-1973,F,Married,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Google Search,Fully Meets,3.6,0,16
+"Kirill, Alexandra  ",Production Technician I,MA,10-08-1970,F,Married,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Google Search,Fully Meets,3.49,0,6
+"Knapp, Bradley  J",Production Technician I,MA,11-10-1977,M ,Single,US Citizen,Active,Production       ,Ketsia Liebig,LinkedIn,Fully Meets,3.1,0,3
+"Kretschmer, John",Production Technician I,MA,02-02-1980,M ,Married,US Citizen,Active,Production       ,Brannon Miller,Indeed,Fully Meets,3.38,0,17
+"Kreuger, Freddy",Area Sales Manager,NY,02/24/69,M ,Single,US Citizen,Active,Sales,John Smith,Diversity Job Fair,Fully Meets,3.65,0,20
+"Lajiri,  Jyoti",Sr. Network Engineer,MA,04/23/86,M ,Married,US Citizen,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.46,6,7
+"Landa, Hans",Production Manager,MA,07-01-1972,M ,Married,US Citizen,Terminated for Cause,Production       ,Janet King,Employee Referral,Fully Meets,4.78,0,9
+"Langford, Lindsey",Production Technician II,MA,07/25/79,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,David Stanley,Indeed,Fully Meets,4.52,0,20
+"Langton, Enrico",Production Technician I,MA,12-09-1986,M ,Married,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,5,0,13
+"LaRotonda, William  ",Accountant I,MA,04/26/84,M ,Divorced,US Citizen,Active,Admin Offices,Brandon R. LeBlanc,Website,Fully Meets,5,4,3
+"Latif, Mohammed",Production Technician II,MA,05-09-1984,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,Google Search,Fully Meets,4.9,0,20
+"Le, Binh",Senior BI Developer,MA,06/14/87,F,Single,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.1,7,2
+"Leach, Dallas",Production Technician I,MA,01/17/79,F,Single,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,CareerBuilder,Fully Meets,4.88,0,17
+"LeBlanc, Brandon  R",Shared Services Manager,MA,06-10-1984,M ,Married,US Citizen,Active,Admin Offices,Janet King,CareerBuilder,Fully Meets,4.1,0,20
+"Lecter, Hannibal",Production Technician I,MA,09-02-1982,M ,Married,US Citizen,Active,Production       ,Elijiah Gray,Google Search,Fully Meets,4.1,0,10
+"Leruth, Giovanni",Area Sales Manager,UT,12/27/88,M ,Separated,US Citizen,Active,Sales,John Smith,Website,Fully Meets,4.53,0,16
+"Liebig, Ketsia",Production Manager,MA,10/26/81,F,Married,US Citizen,Active,Production       ,Janet King,Website,Exceeds,4.1,0,11
+"Linares, Marilyn ",Production Technician I,MA,03/26/81,F,Married,US Citizen,Voluntarily Terminated,Production       ,Michael Albert,Indeed,Fully Meets,3.18,0,16
+"Linden, Mathew",Production Technician II,MA,03/19/79,M ,Married,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Fully Meets,4,0,7
+"Lindsay, Leonara ",IT Support,CT,10-05-1988,F,Single,US Citizen,Active,IT/IS,Eric Dougall,Diversity Job Fair,Exceeds,4.64,5,14
+"Lundy, Susan",Production Technician II,MA,12/26/76,F,Widowed,US Citizen,Voluntarily Terminated,Production       ,Michael Albert,LinkedIn,Fully Meets,4.65,0,15
+"Lunquist, Lisa",Production Technician II,MA,03/28/82,F,Single,US Citizen,Active,Production       ,Elijiah Gray,Indeed,Exceeds,4.2,0,19
+"Lydon, Allison",Production Technician I,MA,10/22/75,F,Married,US Citizen,Active,Production       ,Elijiah Gray,Website,Fully Meets,5,0,6
+"Lynch, Lindsay",Production Technician I,MA,02/14/73,F,Single,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Diversity Job Fair,Exceeds,5,0,17
+"MacLennan, Samuel",Production Technician I,MA,11-09-1972,M ,Widowed,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Indeed,Fully Meets,3.08,0,18
+"Mahoney, Lauren  ",Production Technician I,MA,07-07-1986,F,Single,US Citizen,Active,Production       ,Ketsia Liebig,LinkedIn,Fully Meets,4.6,0,14
+"Manchester, Robyn",Production Technician II,MA,08/25/76,F,Married,US Citizen,Active,Production       ,Webster Butler,LinkedIn,Fully Meets,5,0,4
+"Mancuso, Karen",Production Technician II,MA,12-10-1986,F,Married,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,LinkedIn,Fully Meets,5,0,16
+"Mangal, Debbie",Production Technician I,MA,11-07-1974,F,Married,US Citizen,Active,Production       ,Brannon Miller,LinkedIn,Fully Meets,4.1,0,11
+"Martin, Sandra",Software Engineer,MA,11-07-1987,F,Single,US Citizen,Active,Software Engineering,Alex Sweetwater,Google Search,Fully Meets,4.5,4,14
+"Maurice, Shana",Production Technician I,MA,11/22/77,F,Married,US Citizen,Active,Production       ,David Stanley,Indeed,Fully Meets,5,0,8
+"Carthy, B'rigit",Production Technician II,MA,05/21/87,F,Single,US Citizen,Active,Production       ,Ketsia Liebig,LinkedIn,Fully Meets,5,0,16
+"Mckenna, Sandy",Production Technician I,MA,01-07-1987,F,Married,US Citizen,Active,Production       ,Kissy Sullivan,CareerBuilder,Fully Meets,3.93,0,20
+"McKinzie, Jac",Area Sales Manager,TX,07-01-1984,M ,Married,US Citizen,Active,Sales,Lynn Daneault,Website,Fully Meets,3.4,0,7
+"Meads, Elizabeth",Production Technician I,MA,05/30/68,F,Single,US Citizen,Voluntarily Terminated,Production       ,Kelley Spirea,Diversity Job Fair,Fully Meets,4.18,0,17
+"Medeiros, Jennifer",Production Technician I,MA,09/22/76,F,Single,US Citizen,Active,Production       ,Michael Albert,CareerBuilder,Fully Meets,5,0,10
+"Miller, Brannon",Production Manager,MA,08-10-1981,M ,Single,US Citizen,Active,Production       ,Janet King,Indeed,Fully Meets,4.37,0,2
+"Miller, Ned",Production Technician II,MA,06/29/85,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Brannon Miller,LinkedIn,PIP,3,0,6
+"Monkfish, Erasumus",Production Technician II,MA,08/17/92,M ,Married,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,3.7,0,14
+"Monroe, Peter",IT Manager - Infra,MA,10-05-1986,M ,Married,Eligible NonCitizen,Active,IT/IS,Jennifer Zamora,Diversity Job Fair,Needs Improvement,2.39,6,13
+"Monterro, Luisa",Production Technician II,MA,04/24/70,F,Single,US Citizen,Active,Production       ,Kissy Sullivan,Indeed,Exceeds,4.7,0,1
+"Moran, Patrick",Production Technician II,MA,12-03-1976,M ,Single,US Citizen,Active,Production       ,Kelley Spirea,Diversity Job Fair,Fully Meets,4.1,0,12
+"Morway, Tanya",Network Engineer,MA,04-04-1979,F,Married,US Citizen,Active,IT/IS,Peter Monroe,CareerBuilder,Fully Meets,3.81,6,6
+"Motlagh,  Dawn",Production Technician I,MA,07-07-1984,F,Divorced,US Citizen,Active,Production       ,Elijiah Gray,LinkedIn,Fully Meets,4.4,0,18
+"Moumanil, Maliki ",Production Technician II,MA,12-01-1974,M ,Separated,US Citizen,Active,Production       ,Michael Albert,LinkedIn,Fully Meets,4.29,0,11
+"Myers, Michael",Production Technician I,MA,04/18/80,M ,Single,US Citizen,Active,Production       ,Kissy Sullivan,LinkedIn,Fully Meets,4.1,0,13
+"Navathe, Kurt",Senior BI Developer,MA,04/25/70,M ,Single,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,5,6,17
+"Ndzi, Colombui",Production Technician I,MA,05-02-1989,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Diversity Job Fair,Fully Meets,4.3,0,19
+"Ndzi, Horia",Production Technician I,MA,03/28/83,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Employee Referral,Fully Meets,3.18,0,10
+"Newman, Richard ",Production Technician I,MA,04-08-1977,M ,Married,US Citizen,Active,Production       ,Ketsia Liebig,LinkedIn,Fully Meets,5,0,11
+"Ngodup, Shari ",Production Technician I,MA,06-03-1967,F,Separated,US Citizen,Active,Production       ,Brannon Miller,Diversity Job Fair,Exceeds,4,0,12
+"Nguyen, Dheepa",Area Sales Manager,GA,03/31/89,F,Single,US Citizen,Active,Sales,Lynn Daneault,Indeed,Fully Meets,5,0,2
+"Nguyen, Lei-Ming",Production Technician I,MA,07-07-1984,F,Single,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,3.6,0,4
+"Nowlan, Kristie",Production Technician II,MA,11/23/85,F,Single,US Citizen,Active,Production       ,Elijiah Gray,Indeed,Fully Meets,4.53,0,5
+"O'hare, Lynn",Production Technician I,MA,09/30/80,F,Single,US Citizen,Terminated for Cause,Production       ,Kissy Sullivan,LinkedIn,PIP,2.33,0,3
+"Oliver, Brooke ",Production Technician II,MA,02-11-1952,F,Married,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,LinkedIn,Fully Meets,5,0,17
+"Onque, Jasmine",Area Sales Manager,FL,05-11-1990,F,Single,US Citizen,Active,Sales,Lynn Daneault,Indeed,Fully Meets,4.28,0,1
+"Osturnka, Adeel",Production Technician I,MA,12-11-1976,M ,Married,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Exceeds,5,0,13
+"Owad, Clinton",Production Technician I,MA,11/24/79,M ,Single,US Citizen,Active,Production       ,Michael Albert,LinkedIn,Needs Improvement,4.25,0,6
+"Ozark, Travis",Area Sales Manager,NC,05/19/82,M ,Single,US Citizen,Active,Sales,John Smith,Website,Fully Meets,5,0,18
+"Panjwani, Nina",Production Technician I,MA,05-01-1979,F,Married,US Citizen,Voluntarily Terminated,Production       ,Elijiah Gray,Google Search,Fully Meets,3.89,0,7
+"Patronick, Lucas",Software Engineer,MA,02/20/79,M ,Single,US Citizen,Voluntarily Terminated,Software Engineering,Alex Sweetwater,Diversity Job Fair,Exceeds,5,3,13
+"Pearson, Randall",Data Analyst,MA,09-05-1984,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,Simon Roup,Employee Referral,Fully Meets,4.7,5,19
+"Smith, Martin",Production Technician I,MA,03/17/88,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Google Search,Needs Improvement,3.54,0,15
+"Pelletier, Ermine",Production Technician II,MA,07/18/89,F,Married,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,CareerBuilder,Needs Improvement,2.4,0,2
+"Perry, Shakira",Production Technician I,MA,07/20/86,F,Single,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,LinkedIn,Fully Meets,3.45,0,5
+"Peters, Lauren",Production Technician II,MA,08/17/86,F,Married,US Citizen,Voluntarily Terminated,Production       ,Ketsia Liebig,Indeed,Exceeds,4.2,0,12
+"Peterson, Ebonee  ",Production Manager,MA,05-09-1977,F,Married,US Citizen,Voluntarily Terminated,Production       ,Janet King,Indeed,Fully Meets,4.16,0,6
+"Petingill, Shana  ",Production Technician II,MA,03-10-1979,F,Married,Eligible NonCitizen,Active,Production       ,Brannon Miller,LinkedIn,Fully Meets,4.3,0,14
+"Petrowsky, Thelma",Data Analyst,MA,09/16/84,F,Married,US Citizen,Active,IT/IS,Simon Roup,Employee Referral,Exceeds,4.6,7,16
+"Pham, Hong",Production Technician I,MA,03-06-1988,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Brannon Miller,Google Search,Fully Meets,5,0,13
+"Pitt, Brad ",Production Technician I,MA,11/23/81,M ,Single,US Citizen,Active,Production       ,David Stanley,Google Search,Fully Meets,3.66,0,15
+"Potts, Xana",Area Sales Manager,KY,08/29/88,F,Married,US Citizen,Active,Sales,Lynn Daneault,Website,Fully Meets,4.2,0,9
+"Power, Morissa",Production Technician I,MA,10/15/84,F,Divorced,Eligible NonCitizen,Voluntarily Terminated,Production       ,Kissy Sullivan,Google Search,Fully Meets,3.17,0,14
+"Punjabhi, Louis  ",Production Technician I,MA,06/19/61,M ,Single,US Citizen,Active,Production       ,Kelley Spirea,Employee Referral,Fully Meets,4.8,0,14
+"Purinton, Janine",Production Technician I,MA,09/22/70,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,Indeed,Fully Meets,4.5,0,16
+"Quinn, Sean",Software Engineer,MA,11-06-1984,M ,Married,Eligible NonCitizen,Voluntarily Terminated,Software Engineering,Janet King,Diversity Job Fair,Fully Meets,4.15,0,4
+"Rachael, Maggie",BI Developer,MA,05-12-1980,F,Married,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.4,6,10
+"Rarrick, Quinn",Production Technician I,MA,12/31/84,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,Michael Albert,Indeed,Fully Meets,3.8,0,19
+"Ren, Kylo",Area Sales Manager,ID,10-12-1954,M ,Married,US Citizen,Active,Sales,John Smith,CareerBuilder,Fully Meets,3.98,0,4
+"Rhoads, Thomas",Production Technician I,MA,07/22/82,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,Elijiah Gray,LinkedIn,Fully Meets,5,0,11
+"Rivera, Haley  ",Production Technician I,MA,01-12-1973,F,Married,US Citizen,Active,Production       ,Webster Butler,Google Search,Exceeds,4.36,0,16
+"Roberson, May",Production Technician II,MA,09-05-1981,F,Divorced,Eligible NonCitizen,Voluntarily Terminated,Production       ,David Stanley,Google Search,Fully Meets,4.5,0,10
+"Robertson, Peter",Production Technician II,MA,07-03-1972,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,Indeed,Fully Meets,4.2,0,13
+"Robinson, Alain  ",Production Technician I,MA,01-07-1974,M ,Married,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Indeed,Fully Meets,5,0,11
+"Robinson, Cherly",Production Technician I,MA,01-07-1985,F,Married,US Citizen,Terminated for Cause,Production       ,Ketsia Liebig,Indeed,Needs Improvement,3.6,0,16
+"Robinson, Elias",Production Technician I,MA,01/28/85,M ,Widowed,US Citizen,Active,Production       ,Brannon Miller,Employee Referral,Exceeds,3.6,0,4
+"Roby, Lori ",Data Analyst,MA,10-11-1981,F,Married,US Citizen,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.69,6,15
+"Roehrich, Bianca",Principal Data Architect,MA,05/27/73,F,Single,US Citizen,Voluntarily Terminated,IT/IS,Simon Roup,LinkedIn,Fully Meets,3.88,7,12
+"Roper, Katie",Data Architect,MA,11/21/72,F,Single,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,4.94,5,17
+"Rose, Ashley  ",Production Technician I,MA,12-05-1974,F,Separated,US Citizen,Active,Production       ,David Stanley,Website,Fully Meets,5,0,8
+"Rossetti, Bruno",Production Technician I,MA,03/18/87,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,Google Search,Fully Meets,5,0,4
+"Roup,Simon",IT Manager - DB,MA,04-05-1973,M ,Single,US Citizen,Active,IT/IS,Jennifer Zamora,Indeed,Fully Meets,3.6,7,13
+"Ruiz, Ricardo",IT Manager - DB,MA,01-04-1964,M ,Divorced,US Citizen,Voluntarily Terminated,IT/IS,Jennifer Zamora,Diversity Job Fair,Fully Meets,4.3,6,8
+"Saada, Adell",Software Engineer,MA,07/24/86,F,Married,US Citizen,Active,Software Engineering,Alex Sweetwater,Indeed,Fully Meets,4.2,6,2
+"Saar-Beckles, Melinda",Production Technician I,MA,06-06-1968,F,Single,US Citizen,Active,Production       ,Kelley Spirea,Diversity Job Fair,Needs Improvement,2.6,0,4
+"Sadki, Nore  ",Production Technician I,MA,12/21/74,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Michael Albert,Google Search,Fully Meets,4.6,0,7
+"Sahoo, Adil",Production Technician II,MA,04/26/86,M ,Married,US Citizen,Active,Production       ,Kelley Spirea,CareerBuilder,Fully Meets,4.1,0,13
+"Salter, Jason",Data Analyst ,MA,12/17/87,M ,Divorced,US Citizen,Voluntarily Terminated,IT/IS,Simon Roup,LinkedIn,Fully Meets,4.2,5,2
+"Sander, Kamrin",Production Technician I,MA,07-10-1988,F,Married,US Citizen,Active,Production       ,Elijiah Gray,LinkedIn,Fully Meets,3.51,0,2
+"Sewkumar, Nori",Production Technician I,MA,03-10-1975,F,Single,US Citizen,Active,Production       ,Webster Butler,Google Search,Fully Meets,5,0,14
+"Shepard, Anita ",Network Engineer,MA,04/14/81,F,Married,US Citizen,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.31,6,7
+"Shields, Seffi",Production Technician I,MA,08/24/85,F,Married,US Citizen,Active,Production       ,Amy Dunn,LinkedIn,Fully Meets,4.81,0,15
+"Simard, Kramer",Data Analyst,MA,02-08-1970,M ,Married,US Citizen,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,3.32,7,16
+"Singh, Nan ",Administrative Assistant,MA,05/19/88,F,Single,US Citizen,Active,Admin Offices,Brandon R. LeBlanc,Website,Fully Meets,5,5,2
+"Sloan, Constance",Production Technician II,MA,11/25/87,F,Single,US Citizen,Voluntarily Terminated,Production       ,Michael Albert,CareerBuilder,Fully Meets,4.68,0,20
+"Smith, Joe",Production Technician II,MA,10/30/63,M ,Single,US Citizen,Active,Production       ,Elijiah Gray,Indeed,Exceeds,4.3,0,4
+"Smith, John",Sales Manager,MA,08/16/84,M ,Divorced,US Citizen,Active,Sales,Debra Houlihan,Diversity Job Fair,Needs Improvement,2.4,0,16
+"Smith, Leigh Ann",Administrative Assistant,MA,06/14/87,F,Married,US Citizen,Voluntarily Terminated,Admin Offices,Brandon R. LeBlanc,Diversity Job Fair,Fully Meets,3.8,4,17
+"Smith, Sade",Production Technician I,MA,02-02-1965,F,Single,US Citizen,Active,Production       ,Ketsia Liebig,Employee Referral,Fully Meets,3.73,0,16
+"Soto, Julia ",IT Support,MA,03-12-1973,F,Married,US Citizen,Active,IT/IS,Eric Dougall,LinkedIn,Fully Meets,4.3,5,19
+"Soze, Keyser",Sr. Network Engineer,MA,02-09-1983,M ,Married,US Citizen,Active,IT/IS,Peter Monroe,LinkedIn,Fully Meets,3.27,5,13
+"Sparks, Taylor  ",Production Technician I,MA,07/20/68,F,Married,US Citizen,Active,Production       ,Brannon Miller,Indeed,PIP,2.4,1,20
+"Spirea, Kelley",Production Manager,MA,09/30/75,F,Married,US Citizen,Active,Production       ,Janet King,LinkedIn,Fully Meets,4.83,0,15
+"Squatrito, Kristen",Production Technician I,MA,03/26/73,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,David Stanley,LinkedIn,Exceeds,4.1,0,16
+"Stanford,Barbara  M",Production Technician I,MA,08/25/82,F,Divorced,US Citizen,Active,Production       ,Kissy Sullivan,Google Search,Fully Meets,4.1,0,9
+"Stansfield, Norman",Area Sales Manager,NV,05-09-1974,M ,Married,US Citizen,Active,Sales,Lynn Daneault,Website,PIP,1.81,0,5
+"Steans, Tyrone  ",Accountant I,MA,09-01-1986,M ,Single,US Citizen,Active,Admin Offices,Brandon R. LeBlanc,Indeed,Fully Meets,3.9,5,9
+"Stoica, Rick",Production Technician I,MA,03/14/85,M ,Married,US Citizen,Active,Production       ,Kelley Spirea,LinkedIn,Fully Meets,4.7,0,4
+"Strong, Caitrin",Area Sales Manager,MT,05-12-1989,F,Married,US Citizen,Active,Sales,John Smith,Indeed,Fully Meets,4.1,0,18
+"Sullivan, Kissy ",Production Manager,MA,03/28/78,F,Married,US Citizen,Active,Production       ,Janet King,Indeed,Fully Meets,3.73,0,12
+"Sullivan, Timothy",Production Technician I,MA,10-07-1982,M ,Married,US Citizen,Active,Production       ,Michael Albert,Google Search,Fully Meets,4.36,0,10
+"Sutwell, Barbara",Production Technician I,MA,08/15/68,F,Single,Eligible NonCitizen,Active,Production       ,Elijiah Gray,Indeed,Fully Meets,3.4,0,13
+"Szabo, Andrew",Software Engineer,MA,05-06-1983,M ,Single,US Citizen,Active,Software Engineering,Alex Sweetwater,LinkedIn,Exceeds,4.5,5,1
+"Tannen, Biff",BI Developer,MA,10/24/87,M ,Married,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.4,6,14
+"Tavares, Desiree  ",Production Technician I,MA,04-03-1975,F,Married,Non-Citizen,Voluntarily Terminated,Production       ,Webster Butler,Diversity Job Fair,Fully Meets,4.5,0,11
+"Tejeda, Lenora ",Production Technician II,MA,05/24/53,F,Married,US Citizen,Voluntarily Terminated,Production       ,Elijiah Gray,Google Search,Fully Meets,3.93,0,3
+"Terry, Sharlene ",Area Sales Manager,OR,05-07-1965,F,Single,US Citizen,Active,Sales,Lynn Daneault,Indeed,Fully Meets,3.69,0,18
+"Theamstern, Sophia",Production Technician I,MA,05-09-1965,F,Single,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,Indeed,Fully Meets,3.98,0,1
+"Thibaud, Kenneth",Production Technician II,MA,09/16/75,M ,Widowed,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,Other,Fully Meets,4.1,0,15
+"Tippett, Jeanette",Production Technician I,MA,06-05-1967,F,Divorced,US Citizen,Active,Production       ,Brannon Miller,Indeed,Fully Meets,4.21,0,4
+"Torrence, Jack",Area Sales Manager,ND,01/15/68,M ,Separated,US Citizen,Active,Sales,Lynn Daneault,Indeed,Exceeds,4.1,0,6
+"Trang, Mei",Production Technician I,MA,05/16/83,F,Single,US Citizen,Active,Production       ,David Stanley,LinkedIn,Needs Improvement,2.44,0,18
+"Tredinnick, Neville ",Network Engineer,MA,05-05-1988,M ,Married,US Citizen,Voluntarily Terminated,IT/IS,Peter Monroe,CareerBuilder,Fully Meets,5,5,11
+"True, Edward",Software Engineer,MA,06/14/83,M ,Single,Non-Citizen,Voluntarily Terminated,Software Engineering,Alex Sweetwater,Diversity Job Fair,Fully Meets,4.6,4,9
+"Trzeciak, Cybil",Production Technician II,MA,03/15/85,F,Single,US Citizen,Voluntarily Terminated,Production       ,Amy Dunn,LinkedIn,Fully Meets,4.4,0,5
+"Turpin, Jumil",Network Engineer,MA,03/31/69,M ,Married,Eligible NonCitizen,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,5,7,8
+"Valentin,Jackie",Area Sales Manager,AZ,05/23/91,F,Married,US Citizen,Active,Sales,John Smith,Indeed,Fully Meets,2.81,0,16
+"Veera, Abdellah ",Production Technician I,MA,01/31/87,M ,Divorced,US Citizen,Voluntarily Terminated,Production       ,Kissy Sullivan,LinkedIn,Exceeds,4.5,0,15
+"Vega, Vincent",Production Manager,MA,10-10-1968,M ,Divorced,US Citizen,Active,Production       ,Janet King,Employee Referral,Fully Meets,3.93,0,19
+"Villanueva, Noah",Area Sales Manager,ME,07-11-1989,M ,Single,US Citizen,Active,Sales,John Smith,Website,Fully Meets,4.5,0,11
+"Voldemort, Lord",Database Administrator,MA,08-07-1986,M ,Married,US Citizen,Terminated for Cause,IT/IS,Simon Roup,Employee Referral,Fully Meets,4.33,7,9
+"Volk, Colleen",Production Technician I,MA,06-03-1986,F,Married,US Citizen,Terminated for Cause,Production       ,Kelley Spirea,Google Search,Exceeds,4.3,0,18
+"Von Massenbach, Anna",Production Technician I,MA,04-06-1985,F,Single,US Citizen,Active,Production       ,Michael Albert,LinkedIn,Fully Meets,3.21,0,7
+"Walker, Roger",Production Technician II,MA,02-10-1976,M ,Single,US Citizen,Active,Production       ,Ketsia Liebig,Employee Referral,Fully Meets,3.11,0,4
+"Wallace, Courtney  E",Production Manager,MA,11/14/55,F,Married,US Citizen,Voluntarily Terminated,Production       ,Janet King,Diversity Job Fair,Fully Meets,4.5,0,5
+"Wallace, Theresa",Production Technician I,MA,08-02-1980,F,Single,US Citizen,Voluntarily Terminated,Production       ,Elijiah Gray,CareerBuilder,Needs Improvement,2.5,0,13
+"Wang, Charlie",Senior BI Developer,MA,07-08-1981,M ,Single,US Citizen,Active,IT/IS,Brian Champaigne,Indeed,Fully Meets,3.42,7,17
+"Warfield, Sarah",Sr. Network Engineer,MA,05-02-1978,F,Widowed,US Citizen,Active,IT/IS,Peter Monroe,Employee Referral,Fully Meets,4.2,8,7
+"Whittier, Scott",Production Technician I,MA,05/24/87,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Webster Butler,LinkedIn,Fully Meets,5,0,11
+"Wilber, Barry",Production Technician I,MA,09-09-1965,M ,Married,Eligible NonCitizen,Voluntarily Terminated,Production       ,Amy Dunn,Website,Fully Meets,5,0,7
+"Wilkes, Annie",Production Technician I,MA,07/30/83,F,Divorced,US Citizen,Voluntarily Terminated,Production       ,Ketsia Liebig,Google Search,Fully Meets,3.6,0,9
+"Williams, Jacquelyn  ",Production Technician I,MA,10-02-1969,F,Single,US Citizen,Voluntarily Terminated,Production       ,Ketsia Liebig,Diversity Job Fair,Fully Meets,4.3,0,16
+"Winthrop, Jordan  ",Production Technician II,MA,11-07-1958,M ,Single,US Citizen,Voluntarily Terminated,Production       ,Brannon Miller,LinkedIn,Exceeds,5,0,7
+"Wolk, Hang  T",Production Technician II,MA,04/20/85,F,Single,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,3.4,0,14
+"Woodson, Jason",Production Technician II,MA,05-11-1985,M ,Single,US Citizen,Active,Production       ,Kissy Sullivan,LinkedIn,Fully Meets,4.07,0,13
+"Ybarra, Catherine ",Production Technician I,MA,05-04-1982,F,Single,US Citizen,Voluntarily Terminated,Production       ,Brannon Miller,Google Search,PIP,3.2,0,4
+"Zamora, Jennifer",CIO,MA,08/30/79,F,Single,US Citizen,Active,IT/IS,Janet King,Employee Referral,Exceeds,4.6,6,16
+"Zhou, Julia",Data Analyst,MA,02/24/79,F,Single,US Citizen,Active,IT/IS,Simon Roup,Employee Referral,Fully Meets,5,5,11
+"Zima, Colleen",Production Technician I,MA,08/17/78,F,Widowed,US Citizen,Active,Production       ,David Stanley,LinkedIn,Fully Meets,4.5,0,2
