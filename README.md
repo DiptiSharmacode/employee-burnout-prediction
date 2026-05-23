@@ -2,6 +2,9 @@
 
 An end-to-end Machine Learning project that predicts employee burnout rate using workforce-related features.
 
+## Live Demo
+https://employee-burnout-prediction-fbkpdxdmvlbbzp5lzttqfw.streamlit.app/
+
 ## Features
 - Employee burnout prediction
 - Machine learning pipeline
